@@ -1,1 +1,1 @@
-# Start-up-revenue-Calculator
+# StartUp-Revenue-Calculator
